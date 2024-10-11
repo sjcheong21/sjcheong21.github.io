@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+***
+I am Sungjin Cheong, a LiDAR software engineer at [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en), developing direct Time-of-Flight (dToF) SPAD LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate machine learning (ML) algorithms into signal processing and deep learning (DL)-based approach into 3D data processing.
+Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched sensing platforms and vision-based algorithms, including TIR remote sensing system and iToF LiDAR platform. Also I worked on computer vision and domain adaptation algorithms for synthetic data. I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
 
 A data-driven personal website
+***
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
