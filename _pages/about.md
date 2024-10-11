@@ -20,7 +20,7 @@ Biography
 Base Technology Lab
 
 
-**Korea Advanced Institute of Science and Technology (KAIST)**, Daejon, Republic of Korea <div style="text-align: right"> Sep.2021 - Aug.2023 </div>
+<div style="text-align: left">**Korea Advanced Institute of Science and Technology (KAIST)**</div>, Daejon, Republic of Korea <div style="text-align: right"> Sep.2021 - Aug.2023 </div>
 M.S. in Mechanical Engineering
 [Human-Machine Interaction Lab](http://human.kaist.ac.kr/)
 
