@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 I am Sungjin Cheong, a LiDAR software engineer at [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en), developing direct Time-of-Flight (dToF) SPAD LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate machine learning (ML) algorithms into signal processing and deep learning (DL)-based approach into 3D data processing.
-Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched sensing platforms and vision-based algorithms, including TIR remote sensing system and iToF LiDAR platform. Also I worked on computer vision and domain adaptation algorithms for synthetic data. I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
+
+
+Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched sensing platforms and vision-based algorithms, including TIR remote sensing system and iToF LiDAR platform. Also I worked on computer vision and domain adaptation algorithms for synthetic data. 
+
+
+I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
 
 A data-driven personal website
 ------
