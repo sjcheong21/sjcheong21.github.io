@@ -109,7 +109,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/mpi.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>MEMS-Based Indirect Time-of-Flight Scanning LiDAR With Parallel-Phase Demodulation and Multipath Interference Suppression
         </strong>
@@ -124,7 +124,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/face_detection.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/fr.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>A Long-Distance 3D Face Recognition Architecture Utilizing MEMS-Based Region-Scanning LiDAR
         </strong>
@@ -199,7 +199,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/depth_error.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/depth_correction.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Depth Error Correction of 3D Scanning Sensor Using Machine Learning 
         </strong>
