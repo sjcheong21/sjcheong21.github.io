@@ -1,11 +1,4 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-----
+
 About Me
 ----
 I am Sungjin Cheong working for [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en) developing direct Time-of-Flight (dToF) SPAD-LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate ML algorithms into statistical signal processing and DL-based approach into 3D data processing.
