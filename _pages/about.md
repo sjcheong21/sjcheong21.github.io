@@ -79,9 +79,9 @@ Publications
         <strong>Thermal-Infrared Remote-Target Detection System for Maritime Rescue Using  3-D Game-Based Data Augmentation With GAN
         </strong>
         <br>
-        <strong>Sungjin Cheong</strong>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park
+        <span style="color:blue"> <strong>Sungjin Cheong</strong>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park</span>
         <br>
-        <strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024)
+        <span style="color:green"><strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
