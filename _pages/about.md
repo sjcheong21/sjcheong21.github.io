@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+
 
 ----
 I am Sungjin Cheong working for [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en) developing direct Time-of-Flight (dToF) SPAD-LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate ML algorithms into statistical signal processing and DL-based approach into 3D data processing.
@@ -15,10 +18,11 @@ Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Adv
 
 I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
 
+
+
 Research Interests & Goals
 ------
-I am keenly interested in **sensor and vision systems**. My long-term research goal is to develop **reliable, precise and robust sensing platforms and algorithms** that will benefit **future intelligent systems** such as self-driving car, robotics, human-machine interaction, remote sensing, etc. 
-
+I am keenly interested in **sensor and vision systems**. My long-term research goal is to develop **reliable, precise and robust sensing platforms and algorithms** that will benefit **future intelligent systems such as self-driving car, robotics, human-machine interaction, remote sensing, etc.  s
 
 
 
@@ -326,6 +330,3 @@ Past Projects
     </div>
 </div>
 <br>
-
-Skills
-----
