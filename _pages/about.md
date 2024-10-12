@@ -94,9 +94,9 @@ Publications
     <div style="flex-grow: 1;">
         <strong>LiDAR Blooming Artifacts Estimation Method Induced by Retro-Reflectance With Synthetic Data Modeling and Deep Learning</strong>
         <br>
-        <strong>Sungjin Cheong</strong>, Jusung Ha
+        <span style="color:blue"><strong>Sungjin Cheong</strong>, Jusung Ha</span>
         <br>
-        <strong>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)</strong> (2024)
+        <span style="color:green"><strong>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)</strong> (2024)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -109,9 +109,9 @@ Publications
         <strong>Infrared Image-Based Remote Target Detection for Maritime Rescue Utilizing a Deep Learning Network and Data Augmentation
         </strong>
         <br>
-        <strong>Sungjin Cheong</strong>, Yoon Seop Lim, Wonho Jung, Yong-Hwa Park
+        <span style="color:blue"><strong>Sungjin Cheong</strong>, Yoon Seop Lim, Wonho Jung, Yong-Hwa Park</span>
         <br>
-        <strong>Proc. of SPIE</strong>, (2023)
+        <span style="color:green"><strong>Proc. of SPIE</strong>, (2023)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -124,9 +124,9 @@ Publications
         <strong>MEMS-Based Indirect Time-of-Flight Scanning LiDAR With Parallel-Phase Demodulation and Multipath Interference Suppression
         </strong>
         <br>
-        Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <span style="color:blue">Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park</span>
         <br>
-        <strong>Proc. of SPIE</strong>, (2023)
+        <span style="color:green"><strong>Proc. of SPIE</strong>, (2023)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -139,9 +139,9 @@ Publications
         <strong>A Long-Distance 3D Face Recognition Architecture Utilizing MEMS-Based Region-Scanning LiDAR
         </strong>
         <br>
-         Yoon Seop Lim, Sunghyun Lee, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <span style="color:blue">Yoon Seop Lim, Sunghyun Lee, <strong>Sungjin Cheong</strong>, Yong-Hwa Park</span>
         <br>
-        <strong>Proc. of SPIE</strong>, (2023)
+        <span style="color:green"><strong>Proc. of SPIE</strong>, (2023)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -154,9 +154,9 @@ Publications
         <strong>Head Pose Estimation Method Using Depth Camera Based on 3D Point Cloud
         </strong>
         <br>
-        <strong>Sungjin Cheong</strong>,  Sunghyun Lee, Yoon Seop Lim, Yong-Hwa Park
+        <span style="color:blue"><strong>Sungjin Cheong</strong>,  Sunghyun Lee, Yoon Seop Lim, Yong-Hwa Park</span>
         <br>
-        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -169,9 +169,9 @@ Publications
         <strong>Validation of Simulation Model for 3D Indirect Time-of-Flight Sensor 
         </strong>
         <br>
-        Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <span style="color:blue">Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park</span>
         <br>
-        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -184,9 +184,9 @@ Publications
         <strong>Infrared Small Object Detection Based on Histogram Transformation 
         </strong>
         <br>
-        <strong>Sungjin Cheong</strong>, Wonho Jung, Yong-Hwa Park
+        <span style="color:blue"><strong>Sungjin Cheong</strong>, Wonho Jung, Yong-Hwa Park</span>
         <br>
-        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -199,9 +199,9 @@ Publications
         <strong>Depth Image Super Resolution Method for Time-of-Flight Camera Using Single Image Depth Estimation 
         </strong>
         <br>
-        Yoon Seop Lim, Sunghyun Lee, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <span style="color:blue">Yoon Seop Lim, Sunghyun Lee, <strong>Sungjin Cheong</strong>, Yong-Hwa Park</span>
         <br>
-        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -214,9 +214,9 @@ Publications
         <strong>Depth Error Correction of 3D Scanning Sensor Using Machine Learning 
         </strong>
         <br>
-        Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <span style="color:blue">Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park</span>
         <br>
-        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -330,3 +330,8 @@ Past Projects
     </div>
 </div>
 <br>
+
+<br>
+
+Current Projects
+------
