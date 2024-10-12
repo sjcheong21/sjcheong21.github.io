@@ -6,23 +6,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Sungjin Cheong, a LiDAR software engineer at [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en), developing direct Time-of-Flight (dToF) SPAD LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate machine learning (ML) algorithms into signal processing and deep learning (DL)-based approach into 3D data processing.
+I am Sungjin Cheong working for [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en) developing direct Time-of-Flight (dToF) SPAD-LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate ML algorithms into statistical signal processing and DL-based approach into 3D data processing.
 
 
-Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched sensing platforms and vision-based algorithms, including TIR remote sensing system and iToF LiDAR platform. Also I worked on computer vision and domain adaptation algorithms for synthetic data. 
+Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched **sensing platforms and vision-based algorithms**, including **TIR remote sensing system** and **iToF LiDAR platform**. Also I worked on **computer vision** and **domain adaptation** algorithms for synthetic data. 
 
 
 I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
 
 Biography
 ------
-**LG Innotek Inc.**, Seoul, Republic of Korea <div style="text-align: right"> Aug.2023 - Present </div>
-Base Technology Lab
 
 
-<div style="text-align: left">**Korea Advanced Institute of Science and Technology (KAIST)**</div>, Daejon, Republic of Korea <div style="text-align: right"> Sep.2021 - Aug.2023 </div>
-M.S. in Mechanical Engineering
-[Human-Machine Interaction Lab](http://human.kaist.ac.kr/)
+**LG Innotek Inc.** <span style="float: right;">Aug. 2023 - Present</span>
+<br>
+<span style="font-size: smaller;">LiDAR Software Engineer @ Base Technology Lab</span>
+
+**KAIST** <span style="float: right;">Sep. 2021 - Aug. 2023</span>
+<br>
+<span style="font-size: smaller;">M.S. in Mechanical Engineering</span>
+<br>
+<span style="font-size: smaller;">[Human-Machine Interaction Lab](http://human.kaist.ac.kr/)</span>
+
+**Yonsei University** <span style="float: right;">Mar. 2014 - Aug. 2021</span>
+<br>
+<span style="font-size: smaller;">B.S. in Mechanical Engineering</span>
 
 
 
@@ -31,11 +39,11 @@ M.S. in Mechanical Engineering
 Getting started
 ------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
