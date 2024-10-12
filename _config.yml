@@ -21,7 +21,7 @@ repository               : "sjcheong21/sjcheong21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mpi.png"
+  avatar           : "bio.png"
   name             : "Sungjin Cheong"
   pronouns         : # example: "she/her"  
   bio              : ""
