@@ -80,7 +80,7 @@ Publications
 <br>
 
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1ng" alt="To be updated" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/trrs1.png" alt="To be updated" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>LiDAR Blooming Artifacts Estimation Method Induced by Retro-Reflectance With Synthetic Data Modeling and Deep Learning</strong>
         <br>
@@ -94,7 +94,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/s" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Infrared Image-Based Remote Target Detection for Maritime Rescue Utilizing a Deep Learning Network and Data Augmentation
         </strong>
@@ -218,7 +218,7 @@ Publications
 Current Projects
 ------
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>LiDAR Perception & Signal Processing Software
         </strong>
@@ -261,7 +261,7 @@ Past Projects
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/cla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Radar, LiDAR, and Camera Sensor Integrated Platform
         </strong>
@@ -281,7 +281,7 @@ Past Projects
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/cla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Infrared Monitoring AI System For Maritime Rescue
         </strong>
@@ -301,7 +301,7 @@ Past Projects
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/depth_map.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>iToF Scanning LiDAR Platform and Its Application Software
         </strong>
