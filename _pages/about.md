@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+----
+About Me
+----
 I am Sungjin Cheong working for [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en) developing direct Time-of-Flight (dToF) SPAD-LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate ML algorithms into statistical signal processing and DL-based approach into 3D data processing.
 
 
@@ -18,53 +20,303 @@ Biography
 ------
 
 
-**LG Innotek Inc.** <span style="float: right;">Aug. 2023 - Present</span>
+
+<div style="display: flex; align-items: top;">
+    <img src="../images/LGInnotek_logo.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+    <div style="flex-grow: 1;">
+        <strong>LG Innotek Inc.</strong>, Seoul, Republic of Korea
+        <span style="font-size: smaller; display: block;">LiDAR Software Engineer, Base Technology Lab</span>
+    </div>
+    <div>
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
 <br>
-<span style="font-size: smaller;">LiDAR Software Engineer @ Base Technology Lab</span>
 
-**KAIST** <span style="float: right;">Sep. 2021 - Aug. 2023</span>
+<div style="display: flex; align-items: top;">
+    <img src="../images/kaist.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+    <div style="flex-grow: 1;">
+        <strong>KAIST</strong>, Daejon, Republic of Korea
+        <span style="font-size: smaller; display: block;">M.S. in Mechanical Engineering</span>
+        <span style="font-size: smaller; display: block;">
+            <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">Human-Machine Interaction Lab</a>
+        </span>
+    </div>
+    <div>
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
 <br>
-<span style="font-size: smaller;">M.S. in Mechanical Engineering</span>
+
+<div style="display: flex; align-items: top;">
+    <img src="../images/yonsei.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+    <div style="flex-grow: 1;">
+        <strong>Yonsei University</strong>, Seoul, Republic of Korea
+        <span style="font-size: smaller; display: block;">B.S. in Mechanical Engineering</span>
+    </div>
+    <div>
+        <span>Mar. 2014 - Aug. 2021</span>
+    </div>
+</div>
+
+
+
+Publications
+------
+<div style="display: flex; align-items: top;">
+    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Thermal-Infrared Remote-Target Detection System for Maritime Rescue Using  3-D Game-Based Data Augmentation With GAN
+        </strong>
+        <br>
+        <strong>Sungjin Cheong</strong>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park
+        <br>
+        <strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
 <br>
-<span style="font-size: smaller;">[Human-Machine Interaction Lab](http://human.kaist.ac.kr/)</span>
 
-**Yonsei University** <span style="float: right;">Mar. 2014 - Aug. 2021</span>
+<div style="display: flex; align-items: top;">
+    <img src="../images/trrs1ng" alt="To be updated" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>LiDAR Blooming Artifacts Estimation Method Induced by Retro-Reflectance With Synthetic Data Modeling and Deep Learning</strong>
+        <br>
+        <strong>Sungjin Cheong</strong>, Jusung Ha
+        <br>
+        <strong>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)</strong> (2024)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
 <br>
-<span style="font-size: smaller;">B.S. in Mechanical Engineering</span>
+<div style="display: flex; align-items: top;">
+    <img src="../images/s" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Infrared Image-Based Remote Target Detection for Maritime Rescue Utilizing a Deep Learning Network and Data Augmentation
+        </strong>
+        <br>
+        <strong>Sungjin Cheong</strong>, Yoon Seop Lim, Wonho Jung, Yong-Hwa Park
+        <br>
+        <strong>Proc. of SPIE</strong>, (2023)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>MEMS-Based Indirect Time-of-Flight Scanning LiDAR With Parallel-Phase Demodulation and Multipath Interference Suppression
+        </strong>
+        <br>
+        Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <br>
+        <strong>Proc. of SPIE</strong>, (2023)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/face_detection.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>A Long-Distance 3D Face Recognition Architecture Utilizing MEMS-Based Region-Scanning LiDAR
+        </strong>
+        <br>
+         Yoon Seop Lim, Sunghyun Lee, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <br>
+        <strong>Proc. of SPIE</strong>, (2023)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/head_pose.gif" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Head Pose Estimation Method Using Depth Camera Based on 3D Point Cloud
+        </strong>
+        <br>
+        <strong>Sungjin Cheong</strong>,  Sunghyun Lee, Yoon Seop Lim, Yong-Hwa Park
+        <br>
+        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Validation of Simulation Model for 3D Indirect Time-of-Flight Sensor 
+        </strong>
+        <br>
+        Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <br>
+        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/histo.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Infrared Small Object Detection Based on Histogram Transformation 
+        </strong>
+        <br>
+        <strong>Sungjin Cheong</strong>, Wonho Jung, Yong-Hwa Park
+        <br>
+        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/sr.gif" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Depth Image Super Resolution Method for Time-of-Flight Camera Using Single Image Depth Estimation 
+        </strong>
+        <br>
+        Yoon Seop Lim, Sunghyun Lee, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <br>
+        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/depth_error.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Depth Error Correction of 3D Scanning Sensor Using Machine Learning 
+        </strong>
+        <br>
+        Sunghyun Lee, Yoon Seop Lim, <strong>Sungjin Cheong</strong>, Yong-Hwa Park
+        <br>
+        <strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)
+        <br>
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+    </div>
+</div>
 
+<br>
 
-
-
-
-Getting started
+Current Projects
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+<div style="display: flex; align-items: top;">
+    <img src="../images/trrs.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>LiDAR Perception & Signal Processing Software
+        </strong>
+        <br>
+        LG Innotek Inc., Seoul, Republic of Korea
+        <br>
+        <br>
+        <strong>Goals:</strong> Develop robust scanning LiDAR software algorithms to address issues caused by low-reflectivity objects, retro-reflectance, mirror-like objects, and adverse weather conditions.
+        <br>
+        (Role: Signal Processing, ML/DL, 3D Vision)
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+    </div>
+    <div style="margin-left: auto; text-align: right;">
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
+<br>
 
-Site-wide configuration
+Past Projects
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<div style="display: flex; align-items: top;">
+    <img src="../images/carla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Educational Content for Autonomous Driving with CARLA
+        </strong>
+        <br>
+        Divine Technology Inc., Seoul, Republic of Korea
+        <br>
+        <br>
+        <strong>Achieved Outcomes:</strong> Produced online educational material and corresponding CARLA simulation practice code targeted to undergraduate and graduate school students, consisting of perception, decision, and control.
+        <br>
+        (Role: Camera, LiDAR perception part including lane detection, calibration, 2D/3D object detection, tracking etc.)
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+    </div>
+    <div style="margin-left: auto; text-align: right;">
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/cla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Radar, LiDAR, and Camera Sensor Integrated Platform
+        </strong>
+        <br>
+        LG Innotek Inc., Seoul, Republic of Korea
+        <br>
+        <br>
+        <strong>Achieved Outcomes:</strong> Develop integrated automotive sensors software platform.
+        <br>
+        (Role: (Full) 3D data processing, LiDAR noise analysis, Human & Object tracking algorithm, (Partly) Integrated sensor setup in vehicle, Sensor viewer GUI programming)
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+    </div>
+    <div style="margin-left: auto; text-align: right;">
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/cla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Infrared Monitoring AI System For Maritime Rescue
+        </strong>
+        <br>
+        Korean Coast Guard, Incheon, Republic of Korea
+        <br>
+        <br>
+        <strong>Achieved Outcomes:</strong> Designed thermal-infrared target detection system specified for unmanned coast guard boats for maritime rescue search tasks.
+        <br>
+        (Role: Project leader, Dataset acquisition, Experiment, Overall framework design)
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+    </div>
+    <div style="margin-left: auto; text-align: right;">
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/depth_map.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>iToF Scanning LiDAR Platform and Its Application Software
+        </strong>
+        <br>
+        Intek Plus Inc., Daejon, Republic of Korea
+        <br>
+        <br>
+        <strong>Achieved Outcomes:</strong> Proposed miniaturized indirect time-of-flight AMCW LiDAR system and its application software tailored to driver monitoring system (DMS) and highly precise 3D scanner.
+        <br>
+        (Role: (Full) Development of LiDAR application software, (Partly) Optical system design & Signal-processing)
+        <br>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+    </div>
+    <div style="margin-left: auto; text-align: right;">
+        <span>Aug. 2023 - Present</span>
+    </div>
+</div>
+<br>
