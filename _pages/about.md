@@ -19,15 +19,19 @@ Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Adv
 I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
 
 
+<br>
+<br>
 
-Research Interests & Goals
-------
-I am keenly interested in **sensor and vision systems**. My long-term research goal is to develop **reliable, precise and robust sensing platforms and algorithms** that will benefit **future intelligent systems such as self-driving car, robotics, human-machine interaction, remote sensing, etc.  s
+# Research Interests & Goals
+
+I am keenly interested in **sensor and vision systems**. My long-term research goal is to develop **reliable, precise and robust sensing platforms and algorithms** that will benefit **future intelligent systems**such as self-driving car, robotics, human-machine interaction, remote sensing, etc.  s
 
 
+<br>
+<br>
 
-Biography
-------
+# Biography
+
 
 
 
@@ -70,9 +74,11 @@ Biography
 </div>
 
 
+<br>
+<br>
 
-Publications
-------
+# Publications
+
 <div style="display: flex; align-items: top;">
     <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -224,9 +230,10 @@ Publications
 </div>
 
 <br>
+<br>
 
-Current Projects
-------
+# Current Projects
+
 <div style="display: flex; align-items: top;">
     <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -247,9 +254,10 @@ Current Projects
     </div>
 </div>
 <br>
+<br>
 
-Past Projects
-------
+# Past Projects
+
 <div style="display: flex; align-items: top;">
     <img src="../images/carla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -330,8 +338,6 @@ Past Projects
     </div>
 </div>
 <br>
-
 <br>
 
-Current Projects
-------
+# Educational Travel
