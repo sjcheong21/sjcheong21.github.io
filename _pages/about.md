@@ -31,10 +31,6 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Biography
-
-
-
-
 <div style="display: flex; align-items: top;">
     <img src="../images/LGInnotek_logo.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
     <div style="flex-grow: 1;">
@@ -170,7 +166,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/simulation.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/simulation_amcw.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Validation of Simulation Model for 3D Indirect Time-of-Flight Sensor 
         </strong>
@@ -235,7 +231,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 # Current Projects
 
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/lidar2.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>LiDAR Perception & Signal Processing Software
         </strong>
@@ -247,7 +243,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         (Role: Signal Processing, ML/DL, 3D Vision)
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://www.youtube.com/watch?v=p0EH-_3AnW0" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Aug. 2023 - Present</span>
@@ -279,7 +275,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/sensors.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Radar, LiDAR, and Camera Sensor Integrated Platform
         </strong>
@@ -291,7 +287,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         (Role: (Full) 3D data processing, LiDAR noise analysis, Human & Object tracking algorithm, (Partly) Integrated sensor setup in vehicle, Sensor viewer GUI programming)
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Aug. 2023 - Present</span>
@@ -299,7 +295,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/coast.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Infrared Monitoring AI System For Maritime Rescue
         </strong>
@@ -311,7 +307,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         (Role: Project leader, Dataset acquisition, Experiment, Overall framework design)
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Aug. 2023 - Present</span>
@@ -319,7 +315,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/depth_map.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>iToF Scanning LiDAR Platform and Its Application Software
         </strong>
@@ -341,3 +337,69 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Educational Travel
+Through educational travel, I obtained not only English skills but also precious experiences with people from different cultural backgrounds.
+<div style="display: flex; align-items: top;">
+    <img src="../images/ilsc.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+    <div style="flex-grow: 1;">
+        <strong>ILSC Language School</strong>, Toronto, Canada
+        <span style="font-size: smaller; display: block;">General and Academic English Program</span>
+    </div>
+    <div>
+        <span>Mar. 2019 - Dec. 2019</span>
+    </div>
+</div>
+<br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="../images/canada1.jpg" alt="Photo 1" style="width: 32%;"/>
+    <img src="../images/canada2.jpg" alt="Photo 2" style="width: 32%;"/>
+    <img src="../images/canada3.jpg" alt="Photo 3" style="width: 32%;"/>
+</div>
+<br>
+<br>
+<br>
+<div style="display: flex; align-items: top;">
+    <img src="../images/pines.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
+    <div style="flex-grow: 1;">
+        <strong>Pines International Academy</strong>, Baguio, Philippines
+        <span style="font-size: smaller; display: block;">IELTS Academic Program</span>
+    </div>
+    <div>
+        <span>Jan. 2019 - Mar. 2019</span>
+    </div>
+</div>
+<br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="../images/pip1.jpeg" alt="Photo 1" style="width: 32%;"/>
+    <img src="../images/pip2.jpeg" alt="Photo 2" style="width: 32%;"/>
+    <img src="../images/pip3.jpeg" alt="Photo 3" style="width: 32%;"/>
+</div>
+<br>
+<br>
+
+# Skills
+* <strong>Programing Language</strong>
+  * *(Advanced)* Python
+    * I passed the coding tests with Python for recruitment of *Samsung Electronics*, *LG Electronics*, and *HD Hyundai* in 2023.
+  * *(Intermediate)* MATLAB, C++
+  * *(Novice)* LabVIEW
+* <strong>Framework and Library</strong>
+  * *(Advanced)* Pytorch, OpenCV, Open3d
+  * *(Intermediate)* MMDetection3D, ROS, Git
+  * *(Novice)* Pyqt
+* <strong>Visualization Tools</strong>
+  * CloudCompare, MeshLab, Weight & Biases
+* <strong>Language Skills</strong>
+  * *(Native)* Korean
+  * *(Proficient)* English
+    * <strong>IELTS Academic Test</strong> - Overall 7.5 / 9.0 (Sep. 2024)
+      * Listening: 8.5 / 9.0
+      * Reading: 8.0 / 9.0
+      * Writing: 6.5 / 9.0
+      * Speaking: 7.0 / 9.0
+<br>
+<br>
+# Personal Hobbies
+I love traveling around the world and meeting new people with different thinking and backgrounds. It often gives me to new insight and broaden my view. By far, I have been to more than **25 countries** and **100 cities**. I am still keeping in touch with some friends I got to know while traveling.
+<div style="display: flex; justify-content: space-between;">
+    <img src="../images/googlemap.png" alt="Photo 1" style="width: 100%;"/>
+</div>
