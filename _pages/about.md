@@ -76,6 +76,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 
 <br>
 <br>
+<section id='publications'>
 
 # Publications
 ---
@@ -229,7 +230,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061919" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
-
+</section>
 <br>
 <br>
 
