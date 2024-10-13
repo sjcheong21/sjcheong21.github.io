@@ -62,6 +62,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
     <div style="flex-grow: 1;">
         <strong>Yonsei University</strong>, Seoul, Republic of Korea
         <span style="font-size: smaller; display: block;">B.S. in Mechanical Engineering</span>
+        <span style="font-size: smaller; display: block;">- Military Service (2015-2017)</span>
     </div>
     <div>
         <span>Mar. 2014 - Aug. 2021</span>
