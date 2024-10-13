@@ -250,7 +250,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <strong>Goals:</strong> Develop robust scanning LiDAR software algorithms to address issues caused by low-reflectivity objects, retro-reflectance, mirror-like objects, and adverse weather conditions.
         <br>
-        (Role: Signal Processing, ML/DL, 3D Vision)
+        <span style="font-size: smaller; display: block;">(Role: Signal Processing, ML/DL, 3D Vision)</span>
         <br>
         <br>
         <a href="https://www.youtube.com/watch?v=p0EH-_3AnW0" target="_blank" style="text-decoration: none;">[Link]</a>
