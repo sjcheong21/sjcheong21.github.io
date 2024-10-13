@@ -118,7 +118,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649806" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/tistd-trgs" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/tistd-spie" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
