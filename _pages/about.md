@@ -77,9 +77,8 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 <br>
 <section id='publications'>
-
-# Publications
----
+<h1>Publications</h1>
+<hr>
 <div style="display: flex; align-items: top;">
     <img src="../images/trrs1.png" alt="Company Logo" style="width: 240px; height: 180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
