@@ -81,7 +81,7 @@ Publications
         <br>
         <span style="color:blue"> <strong>Sungjin Cheong</strong>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park</span>
         <br>
-        <span style="color:green"><strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024)</span>
+        <span style="color:green"><strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024, IF: 7.5)</span>
         <br>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
@@ -104,7 +104,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/fwkernel.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Infrared Image-Based Remote Target Detection for Maritime Rescue Utilizing a Deep Learning Network and Data Augmentation
         </strong>
@@ -119,7 +119,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/mpi.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/mpi_suppression.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>MEMS-Based Indirect Time-of-Flight Scanning LiDAR With Parallel-Phase Demodulation and Multipath Interference Suppression
         </strong>
@@ -164,7 +164,7 @@ Publications
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
+    <img src="../images/simulation.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Validation of Simulation Model for 3D Indirect Time-of-Flight Sensor 
         </strong>
