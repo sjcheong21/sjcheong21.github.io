@@ -31,6 +31,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Biography
+---
 <div style="display: flex; align-items: top;">
     <img src="../images/LGInnotek_logo.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
     <div style="flex-grow: 1;">
@@ -74,7 +75,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Publications
-
+---
 <div style="display: flex; align-items: top;">
     <img src="../images/trrs1.png" alt="Company Logo" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -229,7 +230,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Current Projects
-
+---
 <div style="display: flex; align-items: top;">
     <img src="../images/lidar2.png" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -253,7 +254,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Past Projects
-
+---
 <div style="display: flex; align-items: top;">
     <img src="../images/carla.gif" alt="" style="width: 190px; height: 150px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -337,6 +338,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 # Educational Travel
+---
 Through educational travel, I obtained not only English skills but also precious experiences with people from different cultural backgrounds.
 <div style="display: flex; align-items: top;">
     <img src="../images/ilsc.png" alt="Company Logo" style="width: 50px; height: 50px; margin-right: 10px;">
@@ -377,6 +379,7 @@ Through educational travel, I obtained not only English skills but also precious
 <br>
 
 # Skills
+---
 * <strong>Programing Language</strong>
   * *(Advanced)* Python
     * I passed the coding tests with Python for recruitment of *Samsung Electronics*, *LG Electronics*, and *HD Hyundai* in 2023.
