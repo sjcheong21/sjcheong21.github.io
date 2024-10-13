@@ -266,7 +266,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <strong>Achieved Outcomes:</strong> Produced online educational material and corresponding CARLA simulation practice code targeted to undergraduate and graduate school students, consisting of perception, decision, and control.
         <br>
-        (Role: Camera, LiDAR perception part including lane detection, calibration, 2D/3D object detection, tracking etc.)
+        <span style="font-size: smaller; display: block;">(Role: Camera, LiDAR perception part including lane detection, calibration, 2D/3D object detection, tracking etc.)</span>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
@@ -286,7 +286,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <strong>Achieved Outcomes:</strong> Develop integrated automotive sensors software platform.
         <br>
-        (Role: (Full) 3D data processing, LiDAR noise analysis, Human & Object tracking algorithm, (Partly) Integrated sensor setup in vehicle, Sensor viewer GUI programming)
+        <span style="font-size: smaller; display: block;">(Role: (Full) 3D data processing, LiDAR noise filtering, Human & Object tracking algorithm, (Partly) Integrated sensor setup in vehicle, Viewer GUI)</span>
         <br>
         <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
@@ -306,7 +306,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <strong>Achieved Outcomes:</strong> Designed thermal-infrared target detection system specified for unmanned coast guard boats for maritime rescue search tasks.
         <br>
-        (Role: Project leader, Dataset acquisition, Experiment, Overall framework design)
+        <span style="font-size: smaller; display: block;">(Role: Project leader, Dataset acquisition, Experiment, Overall framework design)</span>
         <br>
         <a href="https://" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
@@ -326,7 +326,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <strong>Achieved Outcomes:</strong> Proposed miniaturized indirect time-of-flight AMCW LiDAR system and its application software tailored to driver monitoring system (DMS) and highly precise 3D scanner.
         <br>
-        (Role: (Full) Development of LiDAR application software, (Partly) Optical system design & Signal-processing)
+        <span style="font-size: smaller; display: block;">(Role: (Full) 3D computer vision, (Partly) Optical system design & Signal processing)</span>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
