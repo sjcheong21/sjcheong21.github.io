@@ -87,7 +87,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
         <!-- <a href="https://sjcheong21.github.io/publications/TRGS" target="_blank" style="text-decoration: none;">[Details]</a> -->
-        <a href="https://sites.google.com/d/1HAfJehWQlTZZzlIQnmY5_5XaMdFWS-HK/p/1S5VMoXTb32yX6BJU7pHDM01jV6rns8WE/edit" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/tistd-trgs" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -118,6 +118,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649806" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/tistd-trgs" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -133,6 +134,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649693" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/mpi-suppression" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -148,11 +150,12 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649500" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/face-recognition" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
 <div style="display: flex; align-items: top;">
-    <img src="../images/head_pose.gif" alt="Company Logo" style="width: 240px; height: 180px; margin-right: 30px;">
+    <img src="../images/head_pose.gif" alt="Company Logo" style="width: 300px; height: 180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Head Pose Estimation Method Using Depth Camera Based on 3D Point Cloud
         </strong>
@@ -163,6 +166,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11181942" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/head-pose-estimation" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -178,6 +182,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11182118" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/itof-simulation" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -208,6 +213,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061915" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/super-resolution" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -223,6 +229,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061919" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/depth-error-correction" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 </section>
@@ -332,6 +339,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="font-size: smaller; display: block;">(Role: (Full) 3D computer vision, (Partly) Optical system design & Signal processing)</span>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/eeeqeqe/projects/3d-lidar-platform" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <!-- <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2021 - Jun. 2023</span>
