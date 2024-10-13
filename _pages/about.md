@@ -91,7 +91,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sjcheong21.github.io/publication/TRGS" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sjcheong21.github.io/publications/TRGS" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -249,6 +249,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         (Role: Signal Processing, ML/DL, 3D Vision)
         <br>
+        <br>
         <a href="https://www.youtube.com/watch?v=p0EH-_3AnW0" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
     <!-- <div style="margin-left: auto; text-align: right;">
@@ -274,7 +275,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <span style="font-size: smaller; display: block;">(Role: Camera, LiDAR perception part including lane detection, calibration, 2D/3D object detection, tracking etc.)</span>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
     <!-- <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2023 - Jun. 2024</span>
@@ -294,7 +295,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <span style="font-size: smaller; display: block;">(Role: (Full) 3D data processing, LiDAR noise filtering, Human & Object tracking algorithm, (Partly) Integrated sensor setup in vehicle, Viewer GUI)</span>
         <br>
-        <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
     <!-- <div style="margin-left: auto; text-align: right;">
         <span>Aug. 2023 - Feb.2024</span>
