@@ -13,13 +13,8 @@ redirect_from:
 I am Sungjin Cheong working for [LG Innotek Company](https://www.lginnotek.com/main/main.do?locale=en) developing direct Time-of-Flight (dToF) SPAD-LiDAR perception & signal processing software. Currently, I am working on methodologies to incorporate ML algorithms into statistical signal processing and DL-based approach into 3D data processing.
 
 
-Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched **sensing platforms and vision-based algorithms**: (i) **TIR remote sensing system** and (ii) **iToF LiDAR platform**. Also I worked on **computer vision** and  **domain adaptation** algorithms for **synthetic data**. 
+Prior to that, I obtained my M.S. degree in Mechanical Engineering at [Korea Advanced Institute of Science and Technology (KAIST)](https://me.kaist.ac.kr/eng/main/main.html), under the supervision of [Prof. Yong-Hwa Park](https://scholar.google.com/citations?user=LtZKH8wAAAAJ&hl=ko). In my master's research, I mainly researched **sensing platforms and vision-based algorithms**: (i) **TIR remote sensing system** and (ii) **iToF LiDAR platform**. Also I worked on **computer vision** and  **domain adaptation** algorithms for **synthetic data**.  I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
 
-
-I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei.ac.kr/me_en/index.do).
-
-
-<br>
 <br>
 
 # Research Interests & Goals
@@ -91,7 +86,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sjcheong21.github.io/publications/TRGS" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sjcheong21.github.io/publications/TRGS/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
