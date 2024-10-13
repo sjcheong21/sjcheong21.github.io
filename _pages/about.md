@@ -23,7 +23,7 @@ I did my B.S. in Mechanical Engineering at [Yonsei University](https://me.yonsei
 <br>
 
 # Research Interests & Goals
-
+---
 I am keenly interested in **sensor and vision systems**. My long-term research goal is to develop **reliable, precise and robust sensing platforms and algorithms** that will benefit **future intelligent systems**such as self-driving car, robotics, human-machine interaction, remote sensing, etc.  s
 
 
@@ -401,7 +401,9 @@ Through educational travel, I obtained not only English skills but also precious
       * Speaking: 7.0 / 9.0
 <br>
 <br>
+
 # Personal Hobbies
+---
 I love traveling around the world and meeting new people with different thinking and backgrounds. It often gives me to new insight and broaden my view. By far, I have been to more than **25 countries** and **100 cities**. I am still keeping in touch with some friends I got to know while traveling.
 <div style="display: flex; justify-content: space-between;">
     <img src="../images/googlemap.png" alt="Photo 1" style="width: 100%;"/>
