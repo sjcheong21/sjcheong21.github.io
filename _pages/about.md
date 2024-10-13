@@ -86,7 +86,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <br>
         <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sjcheong21.github.io/publications/TRGS/" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sjcheong21.github.io/publications/TRGS" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
