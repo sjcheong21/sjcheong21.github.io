@@ -90,7 +90,8 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024, IF: 7.5)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://sjcheong21.github.io/publication/TRGS" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -105,7 +106,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)</strong> (2024)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -120,7 +121,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Proc. of SPIE</strong>, (2023)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://doi.org/10.1117/12.2649806" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -135,7 +136,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Proc. of SPIE</strong>, (2023)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://doi.org/10.1117/12.2649693" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -150,7 +151,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Proc. of SPIE</strong>, (2023)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://doi.org/10.1117/12.2649500" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -165,7 +166,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11181942" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -180,7 +181,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11182118" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -195,7 +196,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061948" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -210,7 +211,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061915" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 <br>
@@ -225,7 +226,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <span style="color:green"><strong>Conference of The Korean Society of Mechanical Engineers</strong>, (2022)</span>
         <br>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[pdf]</a>
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061919" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
 </div>
 
@@ -271,7 +272,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <span style="font-size: smaller; display: block;">(Role: Camera, LiDAR perception part including lane detection, calibration, 2D/3D object detection, tracking etc.)</span>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2023 - Jun. 2024</span>
@@ -291,7 +292,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <span style="font-size: smaller; display: block;">(Role: (Full) 3D data processing, LiDAR noise filtering, Human & Object tracking algorithm, (Partly) Integrated sensor setup in vehicle, Viewer GUI)</span>
         <br>
-        <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Aug. 2023 - Feb.2024</span>
@@ -311,7 +312,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <span style="font-size: smaller; display: block;">(Role: Project leader, Dataset acquisition, Experiment, Overall framework design)</span>
         <br>
-        <a href="https://" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2021 - Jun. 2023</span>
@@ -331,7 +332,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <span style="font-size: smaller; display: block;">(Role: (Full) 3D computer vision, (Partly) Optical system design & Signal processing)</span>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2021 - Jun. 2023</span>
