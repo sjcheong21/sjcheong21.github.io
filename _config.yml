@@ -216,8 +216,8 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    # permalink: /:collection/:path/
-    permalink: https://www.google.com
+    permalink: /:collection/:path/
+    # permalink: https://www.google.com
   portfolio:
     output: true
     permalink: /:collection/:path/
