@@ -233,8 +233,9 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 <br>
 
-# Current Projects
----
+<section id='projects'>
+<h1>Current Projects (2024~)</h1>
+<hr>
 <div style="display: flex; align-items: top;">
     <img src="../images/lidar2.png" alt="" style="width: 240px; height: 180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
@@ -250,14 +251,15 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <a href="https://www.youtube.com/watch?v=p0EH-_3AnW0" target="_blank" style="text-decoration: none;">[Link]</a>
     </div>
-    <div style="margin-left: auto; text-align: right;">
+    <!-- <div style="margin-left: auto; text-align: right;">
         <span>Feb. 2024 - Present</span>
-    </div>
+    </div> -->
 </div>
 <br>
 <br>
+</section>
 
-# Past Projects
+# Past Projects (~2024)
 ---
 <div style="display: flex; align-items: top;">
     <img src="../images/carla.gif" alt="" style="width: 240px; height: 180px; margin-right: 30px;">
@@ -274,9 +276,9 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
-    <div style="margin-left: auto; text-align: right;">
+    <!-- <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2023 - Jun. 2024</span>
-    </div>
+    </div> -->
 </div>
 <br>
 <div style="display: flex; align-items: top;">
@@ -294,9 +296,9 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <a href="https://lginnotek-virtualshowroom.com/autonomous-driving/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
-    <div style="margin-left: auto; text-align: right;">
+    <!-- <div style="margin-left: auto; text-align: right;">
         <span>Aug. 2023 - Feb.2024</span>
-    </div>
+    </div> -->
 </div>
 <br>
 <div style="display: flex; align-items: top;">
@@ -314,9 +316,9 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <a href="https://" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
-    <div style="margin-left: auto; text-align: right;">
+    <!-- <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2021 - Jun. 2023</span>
-    </div>
+    </div> -->
 </div>
 <br>
 <div style="display: flex; align-items: top;">
@@ -334,9 +336,9 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
-    <div style="margin-left: auto; text-align: right;">
+    <!-- <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2021 - Jun. 2023</span>
-    </div>
+    </div> -->
 </div>
 <br>
 <br>
