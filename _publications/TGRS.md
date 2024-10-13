@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "TGRS"
 collection: publications
 category: manuscripts
 permalink: /publications/TGRS
