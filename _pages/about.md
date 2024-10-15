@@ -52,7 +52,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
         </span>
     </div>
     <div>
-        <span>Aug. 2023 - Present</span>
+        <span>Sep. 2021 - Aug. 2023</span>
     </div>
 </div>
 <br>
@@ -94,7 +94,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <br>
 
 <div style="display: flex; align-items: top;">
-    <img src="../images/trrs1.png" alt="To be updated" style="width: 240px; height: 180px; margin-right: 30px;">
+    <img src="../images/blooming.png" alt="To be updated" style="width: 240px; height: 180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>LiDAR Blooming Artifacts Estimation Method Induced by Retro-Reflectance With Synthetic Data Modeling and Deep Learning</strong>
         <br>
@@ -241,7 +241,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 <h1>Current Projects (2024~)</h1>
 <hr>
 <div style="display: flex; align-items: top;">
-    <img src="../images/lidar2.png" alt="" style="width: 240px; height: 180px; margin-right: 30px;">
+    <img src="../images/lidar2.png" alt="" style="width: 240px; height: 180px; margin-right: 30px; visibility: hidden;">
     <div style="flex-grow: 1;">
         <strong>LiDAR Perception & Signal Processing Software
         </strong>
@@ -267,7 +267,7 @@ I am keenly interested in **sensor and vision systems**. My long-term research g
 # Past Projects (~2024)
 ---
 <div style="display: flex; align-items: top;">
-    <img src="../images/carla.gif" alt="" style="width: 240px; height: 180px; margin-right: 30px;">
+    <img src="../images/carla.gif" alt="" style="width: 240px;; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>Educational Content for Autonomous Driving with CARLA
         </strong>
