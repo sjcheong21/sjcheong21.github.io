@@ -89,7 +89,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
         <!-- <a href="https://sjcheong21.github.io/publications/TRGS" target="_blank" style="text-decoration: none;">[Details]</a> -->
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/tistd-trgs" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/tistd-trgs" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -120,7 +120,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649806" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/tistd-spie" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/tistd-spie" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -136,7 +136,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649693" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/mpi-suppression" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/mpi-suppression" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -152,7 +152,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://doi.org/10.1117/12.2649500" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/face-recognition" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/face-recognition" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -168,7 +168,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11181942" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/head-pose-estimation" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/head-pose-estimation" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -184,7 +184,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11182118" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/itof-simulation" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/itof-simulation" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -215,7 +215,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061915" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/super-resolution" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/super-resolution" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 <br>
@@ -231,7 +231,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <br>
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11061919" target="_blank" style="text-decoration: none;">[Link]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/publications-conferences/depth-error-correction" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/publications-conferences/depth-error-correction" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
 </section>
@@ -341,7 +341,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <span style="font-size: smaller; display: block;">(Role: (Full) 3D computer vision, (Partly) Optical system design & Signal processing)</span>
         <br>
         <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
-        <a href="https://sites.google.com/view/eeeqeqe/projects/3d-lidar-platform" target="_blank" style="text-decoration: none;">[Details]</a>
+        <a href="https://sites.google.com/view/sungjin-website/projects/3d-lidar-platform" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <!-- <div style="margin-left: auto; text-align: right;">
         <span>Dec. 2021 - Jun. 2023</span>
