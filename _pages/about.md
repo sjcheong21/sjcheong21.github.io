@@ -340,7 +340,6 @@ My research interests lie in . My long-term research goal is to develop **precis
         <br>
         <span style="font-size: smaller; display: block;">(Role: (Full) 3D computer vision, (Partly) Optical system design & Signal processing)</span>
         <br>
-        <a href="https://human.kaist.ac.kr/" target="_blank" style="text-decoration: none;">[Details]</a>
         <a href="https://docs.google.com/presentation/d/e/2PACX-1vR6y5Qb9Ew4BYYV7AgQU8BclURv32yJgyBamfEuUFs_frZxHwcXIK4alC-4gzuDfw/pub?start=false&loop=false&delayms=3000" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
     <!-- <div style="margin-left: auto; text-align: right;">
