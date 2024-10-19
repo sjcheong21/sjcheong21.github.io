@@ -393,8 +393,8 @@ Through educational travel, I obtained not only English skills but also precious
 # Skills
 ---
 * <strong>Programing Language</strong>
-  * *(Advanced)* Python
-    * I passed the coding tests with Python for recruitment of *Samsung Electronics*, *LG Electronics*, and *HD Hyundai* in 2023.
+  * *(Advanced)* Python 
+    * I passed the coding tests with Python for recruitment of *Samsung Electronics*, *LG Innotek & Electronics*, and *HD Hyundai* in 2023.
   * *(Intermediate)* MATLAB, C++
   * *(Novice)* LabVIEW
 * <strong>Framework and Library</strong>
