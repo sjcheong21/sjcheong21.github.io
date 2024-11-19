@@ -95,7 +95,7 @@ My research interests lie in . My long-term research goal is to develop **precis
 <br>
 
 <div style="display: flex; align-items: top;">
-    <img src="../images/blooming.png" alt="To be updated" style="width: 240px; height: 180px; margin-right: 30px; visibility:hidden;">
+    <img src="../images/icce_asia_v2.png" alt="Blooming" style="width: 240px; height: 180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
         <strong>LiDAR Blooming Artifacts Estimation Method Induced by Retro-Reflectance With Synthetic Data Modeling and Deep Learning</strong>
         <br>
