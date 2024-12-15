@@ -104,7 +104,7 @@ My research interests lie in . My long-term research goal is to develop **precis
         <span style="color:green"><strong>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)</strong> (2024)</span>
         <br>
         <br>
-        <a href="10.1109/ICCE-Asia63397.2024.10774004" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10774004" target="_blank" style="text-decoration: none;">[Link]</a>
         <a href="https://sites.google.com/view/sungjin-website/publications-conferences/lidar-blooming" target="_blank" style="text-decoration: none;">[Details]</a>
     </div>
 </div>
