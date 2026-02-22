@@ -11,11 +11,16 @@ redirect_from:
 
 ----
 
-I am a Ph.D. student in Computer Sciences at the [WISION Lab](https://wisionlab.com/), **University of Wisconsin–Madison**, advised by Prof. Mohit Gupta. My research interests include computational imaging and computer vision. Currently, I am working on sensor fusion for robotics applications.
+I am a Ph.D. student in Computer Sciences at the [WISION Lab](https://wisionlab.com/) at the **University of Wisconsin–Madison**, advised by Prof. Mohit Gupta. My research focuses on **computational imaging** and **computer vision**, with an emphasis on:
 
-Before that, I worked for **LG Innotek Company** developing direct Time-of-Flight (dToF) signal/image processing algorithms. 
+* RGB + low-cost ToF sensor fusion for robot vision (multi-modal depth/semantic estimation, mapping, tracking)
+* VLMs for open-vocabulary robot tasks (grounding language queries in 2D/3D, zero-shot semantic reasoning)
+* ToF/LiDAR computational imaging (denoising, signal processing, robust depth under low SNR, stray light/blooming/MPI)
+* Physics- and learning-based modeling of ToF measurements (histogram/correlation-domain formulations, simulation-driven evaluation)
 
-I obtained my M.S. degree in Mechanical Engineering at **Korea Advanced Institute of Science and Technology (KAIST)**, under the supervision of Prof. Yong-Hwa Park. I did my B.S. in Mechanical Engineering at **Yonsei University**.
+Previously, I worked at **LG Innotek** developing direct Time-of-Flight (dToF) signal and image processing algorithms.
+
+I received my M.S. in Mechanical Engineering from **Korea Advanced Institute of Science and Technology (KAIST)**, advised by Prof. Yong-Hwa Park, and my B.S. in Mechanical Engineering from **Yonsei University**.
 
 <br>
 
