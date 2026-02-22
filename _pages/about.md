@@ -102,7 +102,7 @@ Recognition (CVPR)</strong> (2026)</span>
         <br>
         <span style="color:blue"> <strong>Sungjin Cheong</strong>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park</span>
         <br>
-        <span style="color:green"><strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024, IF: 7.5)</span>
+        <span style="color:green"><strong>IEEE Transactions on Geoscience and Remote Sensing</strong> (2024, IF: 8.6)</span>
         <br>
         <br>
         <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" style="text-decoration: none;">[Link]</a>
