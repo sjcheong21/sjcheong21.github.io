@@ -11,9 +11,9 @@ redirect_from:
 
 ----
 
-I am a Ph.D. student in Computer Sciences at the [WISION Lab](https://wisionlab.com/), **University of Wisconsin–Madison**, advised by Prof. Mohit Gupta. My research interests include computational imaging, computer vision and statistical signal processing. Currently, I am working on sensor fusion for robotics applications.
+I am a Ph.D. student in Computer Sciences at the [WISION Lab](https://wisionlab.com/), **University of Wisconsin–Madison**, advised by Prof. Mohit Gupta. My research interests include computational imaging and computer vision. Currently, I am working on sensor fusion for robotics applications.
 
-Before that, I worked for **LG Innotek Company** developing direct Time-of-Flight (dToF) SPAD/SiPM LiDARs DSP software. 
+Before that, I worked for **LG Innotek Company** developing direct Time-of-Flight (dToF) signal/image processing algorithms. 
 
 I obtained my M.S. degree in Mechanical Engineering at **Korea Advanced Institute of Science and Technology (KAIST)**, under the supervision of Prof. Yong-Hwa Park. I did my B.S. in Mechanical Engineering at **Yonsei University**.
 
@@ -75,6 +75,25 @@ My research interests lie in . My long-term research goal is to develop **precis
 <section id='publications'>
 <h1>Publications</h1>
 <hr>
+<br>
+
+<div style="display: flex; align-items: top;">
+    <img src="../images/cvpr.png" alt="Blooming" style="width: 240px; height: 180px; margin-right: 30px;">
+    <div style="flex-grow: 1;">
+        <strong>Ghosts in the Point Clouds: De-glaring
+LiDAR in the Transient Domain</strong>
+        <br>
+        <span style="color:blue">Avery Gump, Connor Andrew Henley, <strong>Sungjin Cheong</strong>, Akarsh Prabhakara, Mohit Gupta </span>
+        <br>
+        <span style="color:green"><strong>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+Recognition (CVPR)</strong> (2026)</span>
+        <br>
+        <br>
+        <a href="https://" target="_blank" style="text-decoration: none;">[Link]</a>
+        <a href="https://" target="_blank" style="text-decoration: none;">[Details]</a>
+    </div>
+</div>
+<br>
 <div style="display: flex; align-items: top;">
     <img src="../images/trrs1.png" alt="Company Logo" style="width: 240px; height: 180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
