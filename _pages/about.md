@@ -257,11 +257,10 @@ Recognition (CVPR)</strong> (2026)</span>
 <br>
 <br>
 
-<section id='projects'>
-
-
-# Past Projects (~2024)
----
+<section id='Past Projects'>
+<h1>Past Projects</h1>
+<hr>
+<br>
 <div style="display: flex; align-items: top;">
     <img src="../images/carla.gif" alt="" style="width: 240px; height:180px; margin-right: 30px;">
     <div style="flex-grow: 1;">
