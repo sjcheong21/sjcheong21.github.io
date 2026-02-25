@@ -22,19 +22,8 @@ Previously, I worked at **LG Innotek** developing direct Time-of-Flight (dToF) s
 
 I received my M.S. in Mechanical Engineering from **Korea Advanced Institute of Science and Technology (KAIST)**, advised by Prof. Yong-Hwa Park, and my B.S. in Mechanical Engineering from **Yonsei University**.
 
-<br>
+You can download my <a href="{{ '/files/sjcheong_cv.pdf' | relative_url }}" download class="btn btn--primary">CV (PDF)</a>.
 
-
-<!-- # Research Interests & Goals
----
-My research interests lie in . My long-term research goal is to develop **precise and robust sensing systems** that will benefit **future intelligent systems** such as self-driving car, robotics, human-machine interaction, remote sensing, etc. -->
-
-<!-- <div style="display: flex; justify-content: space-between;">
-    <img src="../images/research_goal.png" alt="Photo 1" style="width: 100%;"/>
-</div> -->
-
-<!-- <br> --> 
-<br>
 
 # Education
 ---
