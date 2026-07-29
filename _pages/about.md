@@ -23,13 +23,13 @@ hero:
       <span class="hl">computer vision</span>, with an emphasis on:
     </p>
     <ul>
-      <li>RGB + low-cost ToF sensor fusion for robot vision (multi-modal depth/semantic estimation, mapping, tracking)</li>
-      <li>VLMs for open-vocabulary robot tasks (grounding language queries in 2D/3D, zero-shot semantic reasoning)</li>
-      <li>ToF/LiDAR computational imaging (denoising, signal processing, robust depth under low SNR, stray light/blooming/MPI)</li>
-      <li>Physics- and learning-based modeling of ToF measurements (histogram/correlation-domain formulations, simulation-driven evaluation)</li>
+      <li>Physics-grounded intelligent sensing and imaging systemsPhysics-grounded intelligent sensing and imaging systems</li>
+      <li> ToF/LiDAR computational imaging</li>
+      <li>TStatistical signal processing and inverse problems</li>
+      <li>Physics-based and learning-based modeling</li>
     </ul>
     <p>
-      Previously, I worked at <span class="hl">LG Innotek</span> developing direct Time-of-Flight (dToF)
+      Previously, I worked at <span class="hl">LG Innotek</span> developing direct Time-of-Flight (dToF) LiDAR
       signal and image processing algorithms.
     </p>
     <p>
