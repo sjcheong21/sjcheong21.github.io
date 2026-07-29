@@ -49,6 +49,7 @@ body.dark-mode {
   --color-border-light: #2c2c2e;
   --color-card-bg: #1c1c1e;
   --color-venue: #e0ab1a;
+  --color-red: #ff453a;
 }
 
 body.dark-mode .nav-top {

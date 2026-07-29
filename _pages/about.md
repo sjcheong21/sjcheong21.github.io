@@ -101,7 +101,7 @@ hero:
         <div class="card-body">
           <div class="card-title">Thermal-Infrared Remote-Target Detection System for Maritime Rescue Using 3-D Game-Based Data Augmentation With GAN</div>
           <div class="card-authors"><span class="me">Sungjin Cheong</span>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park</div>
-          <div class="card-venue">IEEE Transactions on Geoscience and Remote Sensing, 2024 (IF: 9.4)</div>
+          <div class="card-venue">IEEE Transactions on Geoscience and Remote Sensing, 2024 <span class="hl-red">(IF: 9.4)</span></div>
           <div class="card-links">
             <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" rel="noopener">Link</a>
             <a href="https://sites.google.com/view/sungjin-website/publications-conferences/tistd-trgs" target="_blank" rel="noopener">Details</a>
@@ -114,7 +114,7 @@ hero:
         <div class="card-body">
           <div class="card-title">LiDAR Blooming Artifacts Estimation Method Induced by Retro-Reflectance With Synthetic Data Modeling and Deep Learning</div>
           <div class="card-authors"><span class="me">Sungjin Cheong</span>, Jusung Ha</div>
-          <div class="card-venue">IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), 2024</div>
+          <div class="card-venue">ICCE-Asia, 2024</div>
           <div class="card-links">
             <a href="https://ieeexplore.ieee.org/abstract/document/10774004" target="_blank" rel="noopener">Link</a>
             <a href="https://sites.google.com/view/sungjin-website/publications-conferences/lidar-blooming" target="_blank" rel="noopener">Details</a>
