@@ -1,9 +1,13 @@
 {% assign hero = page.hero %}
 <section id="hero" class="hero">
   <div class="hero-inner">
-    {% if hero.avatar %}
-    <img class="hero-avatar" src="{{ hero.avatar | relative_url }}" alt="{{ hero.name | default: site.author.name }}">
-    {% endif %}
+    {%- comment -%}
+      With a photo the hero is a two-column split (text left, photo right).
+      Without one — the 404 page, say — it falls back to the centred
+      single-column layout.
+    {%- endcomment -%}
+    <div class="hero-grid{% unless hero.avatar %} hero-grid-single{% endunless %}">
+      <div class="hero-text">
 
     <h1 class="hero-title">{{ hero.name | default: site.author.name }}</h1>
 
@@ -52,6 +56,15 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
         LinkedIn
       </a>
+      {% endif %}
+    </div>
+
+      </div>
+
+      {% if hero.avatar %}
+      <div class="hero-photo">
+        <img class="hero-avatar" src="{{ hero.avatar | relative_url }}" alt="{{ hero.name | default: site.author.name }}">
+      </div>
       {% endif %}
     </div>
 
