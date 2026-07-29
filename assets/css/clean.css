@@ -128,12 +128,8 @@ img {
   font-weight: 600;
 }
 
-/* When the emphasised term is also a link, keep an underline so it still
-   reads as clickable rather than as plain emphasis. */
 a.hl {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
+  text-decoration: none;
 }
 
 a.hl:hover {
