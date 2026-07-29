@@ -30,6 +30,9 @@
   --color-venue: #c5960c;
   --color-red: #d70015;
   --font-primary: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Lato', 'Helvetica Neue', sans-serif;
+  /* Height of the fixed nav bar. Content that starts at the top of the page
+     has to clear it, since the nav is out of flow. */
+  --nav-height: 59px;
   --max-width: 1080px;
   --section-padding: clamp(72px, 9vh, 108px) clamp(20px, 5vw, 40px);
   --transition-reveal: 0.8s cubic-bezier(0.16, 1, 0.3, 1);
@@ -237,10 +240,13 @@ body.dark-mode .icon-moon { display: none; }
 }
 
 /* ===== Hero Section ===== */
+/* The top padding clears the fixed nav. Without it, a hero taller than the
+   viewport loses its `margin: auto` centring and the title slides under the
+   nav bar. */
 .hero {
   min-height: 100vh;
   display: flex;
-  padding: 48px clamp(20px, 5vw, 40px);
+  padding: calc(var(--nav-height) + 40px) clamp(20px, 5vw, 40px) 48px;
   background: var(--color-bg);
   text-align: center;
   position: relative;
@@ -390,6 +396,13 @@ body.dark-mode .icon-moon { display: none; }
   padding: var(--section-padding);
   background: var(--color-bg);
   position: relative;
+}
+
+/* Anchor jumps align the section to y=0, which the fixed nav would cover.
+   Applies to the nav links and the in-page scroll arrows alike. */
+.hero,
+.content-section {
+  scroll-margin-top: var(--nav-height);
 }
 
 .content-section.alt {
@@ -735,6 +748,11 @@ body.dark-mode .content-section.alt {
 }
 
 @media (max-width: 768px) {
+  /* Narrower nav padding below this breakpoint makes the bar shorter. */
+  :root {
+    --nav-height: 51px;
+  }
+
   .nav-inner {
     gap: 16px;
     padding: 10px 16px;
@@ -755,7 +773,7 @@ body.dark-mode .content-section.alt {
   }
 
   .hero {
-    padding: 56px 16px;
+    padding: calc(var(--nav-height) + 28px) 16px 56px;
   }
 
   .hero-title {
