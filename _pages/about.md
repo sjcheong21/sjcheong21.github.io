@@ -50,7 +50,7 @@ hero:
       <div class="edu-item">
         <img class="edu-logo" src="{{ '/images/uwmadison.png' | relative_url }}" alt="University of Wisconsin–Madison logo">
         <div class="edu-text">
-          <span class="edu-school">University of Wisconsin–Madison</span>, Madison, WI, USA
+          <span class="edu-school">University of Wisconsin–Madison</span>
           <span class="edu-meta">Ph.D. in Computer Sciences</span>
         </div>
         <span class="edu-date">Aug. 2025 – Present</span>
@@ -59,7 +59,7 @@ hero:
       <div class="edu-item">
         <img class="edu-logo" src="{{ '/images/kaist.png' | relative_url }}" alt="KAIST logo">
         <div class="edu-text">
-          <span class="edu-school">KAIST</span>, Daejeon, Republic of Korea
+          <span class="edu-school">KAIST</span>
           <span class="edu-meta">M.S. in Mechanical Engineering</span>
         </div>
         <span class="edu-date">Sep. 2021 – Aug. 2023</span>
@@ -68,7 +68,7 @@ hero:
       <div class="edu-item">
         <img class="edu-logo" src="{{ '/images/yonsei.png' | relative_url }}" alt="Yonsei University logo">
         <div class="edu-text">
-          <span class="edu-school">Yonsei University</span>, Seoul, Republic of Korea
+          <span class="edu-school">Yonsei University</span>
           <span class="edu-meta">B.S. in Mechanical Engineering</span>
           <span class="edu-meta">Military Service (2015–2017)</span>
         </div>
@@ -92,7 +92,7 @@ hero:
         <div class="card-body">
           <div class="card-title">Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain</div>
           <div class="card-authors">Avery Gump, Connor Andrew Henley, <span class="me">Sungjin Cheong</span>, Akarsh Prabhakara, Mohit Gupta</div>
-          <div class="card-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</div>
+          <div class="card-venue">CVPR, 2026</div>
         </div>
       </div>
 
