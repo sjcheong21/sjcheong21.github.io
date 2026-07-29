@@ -17,7 +17,7 @@ hero:
     <p>
       I'm a second-year Ph.D. student in Computer Sciences at the
       <a class="hl" href="https://wisionlab.com/" target="_blank" rel="noopener">WISION Lab</a> at the
-      <strong>University of Wisconsin–Madison</strong>, advised by
+      <span class="hl">University of Wisconsin–Madison</span>, advised by
       <a class="hl" href="https://pages.cs.wisc.edu/~mohitg/" target="_blank" rel="noopener">Prof. Mohit Gupta</a>.
       My research focuses on <span class="hl">computational imaging</span> and
       <span class="hl">computer vision</span>, with an emphasis on:
@@ -29,14 +29,14 @@ hero:
       <li>Physics- and learning-based modeling of ToF measurements (histogram/correlation-domain formulations, simulation-driven evaluation)</li>
     </ul>
     <p>
-      Previously, I worked at <strong>LG Innotek</strong> developing direct Time-of-Flight (dToF)
+      Previously, I worked at <span class="hl">LG Innotek</span> developing direct Time-of-Flight (dToF)
       signal and image processing algorithms.
     </p>
     <p>
       I received my M.S. in Mechanical Engineering from
-      <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, advised by
+      <span class="hl">Korea Advanced Institute of Science and Technology (KAIST)</span>, advised by
       <a class="hl" href="https://human.kaist.ac.kr/" target="_blank" rel="noopener">Prof. Yong-Hwa Park</a>,
-      and my B.S. in Mechanical Engineering from <strong>Yonsei University</strong>.
+      and my B.S. in Mechanical Engineering from <span class="hl">Yonsei University</span>.
     </p>
   cv: /files/sjcheong_cv_2026.pdf
   scroll_to: "#education"
