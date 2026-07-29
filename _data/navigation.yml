@@ -1,14 +1,18 @@
 # The following is the order of the links in the header of the website.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# These are in-page anchors into the single-page layout built by
+# _pages/about.md. Each `url` must match the `id` of a <section> on that page
+# (prefixed with #) for the scroll-spy highlight in _layouts/clean.html to work.
 
 main:
+  - title: "About"
+    url: "#about"
+
+  - title: "Education"
+    url: "#education"
+
   - title: "Publications"
-    # url: /publications/
     url: "#publications"
 
   - title: "Projects"
     url: "#projects"
-    
