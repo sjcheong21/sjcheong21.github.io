@@ -11,46 +11,38 @@ hero:
   name: "Sungjin Cheong"
   role: "Ph.D. Student in Computer Sciences"
   affiliation: '<a href="https://wisionlab.com/" target="_blank" rel="noopener">WISION Lab</a> &middot; University of Wisconsin–Madison'
-  bio: "I work on computational imaging and computer vision — ToF/LiDAR imaging, multi-modal 3D perception, and physics-informed models of active depth sensors."
+  # A YAML literal block, so the HTML below stays readable and editable.
+  # Everything here renders inside <div class="hero-bio"> in the hero.
+  bio: |
+    <p>
+      I'm a second-year Ph.D. student in Computer Sciences at the
+      <a class="hl" href="https://wisionlab.com/" target="_blank" rel="noopener">WISION Lab</a> at the
+      <strong>University of Wisconsin–Madison</strong>, advised by
+      <a class="hl" href="https://pages.cs.wisc.edu/~mohitg/" target="_blank" rel="noopener">Prof. Mohit Gupta</a>.
+      My research focuses on <span class="hl">computational imaging</span> and
+      <span class="hl">computer vision</span>, with an emphasis on:
+    </p>
+    <ul>
+      <li>RGB + low-cost ToF sensor fusion for robot vision (multi-modal depth/semantic estimation, mapping, tracking)</li>
+      <li>VLMs for open-vocabulary robot tasks (grounding language queries in 2D/3D, zero-shot semantic reasoning)</li>
+      <li>ToF/LiDAR computational imaging (denoising, signal processing, robust depth under low SNR, stray light/blooming/MPI)</li>
+      <li>Physics- and learning-based modeling of ToF measurements (histogram/correlation-domain formulations, simulation-driven evaluation)</li>
+    </ul>
+    <p>
+      Previously, I worked at <strong>LG Innotek</strong> developing direct Time-of-Flight (dToF)
+      signal and image processing algorithms.
+    </p>
+    <p>
+      I received my M.S. in Mechanical Engineering from
+      <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, advised by
+      <a class="hl" href="https://human.kaist.ac.kr/" target="_blank" rel="noopener">Prof. Yong-Hwa Park</a>,
+      and my B.S. in Mechanical Engineering from <strong>Yonsei University</strong>.
+    </p>
   cv: /files/sjcheong_cv_2026.pdf
-  scroll_to: "#about"
+  scroll_to: "#education"
 ---
 
-<section id="about" class="content-section alt">
-  <div class="section-inner">
-    <h2 class="section-heading reveal">About</h2>
-    <div class="section-body reveal">
-      <p>
-        I am a Ph.D. student in Computer Sciences at the
-        <a href="https://wisionlab.com/" target="_blank" rel="noopener">WISION Lab</a> at the
-        <strong>University of Wisconsin–Madison</strong>, advised by Prof. Mohit Gupta.
-        My research focuses on <strong>computational imaging</strong> and <strong>computer vision</strong>,
-        with an emphasis on:
-      </p>
-      <ul>
-        <li>RGB + low-cost ToF sensor fusion for robot vision (multi-modal depth/semantic estimation, mapping, tracking)</li>
-        <li>VLMs for open-vocabulary robot tasks (grounding language queries in 2D/3D, zero-shot semantic reasoning)</li>
-        <li>ToF/LiDAR computational imaging (denoising, signal processing, robust depth under low SNR, stray light/blooming/MPI)</li>
-        <li>Physics- and learning-based modeling of ToF measurements (histogram/correlation-domain formulations, simulation-driven evaluation)</li>
-      </ul>
-      <p>
-        Previously, I worked at <strong>LG Innotek</strong> developing direct Time-of-Flight (dToF)
-        signal and image processing algorithms.
-      </p>
-      <p>
-        I received my M.S. in Mechanical Engineering from
-        <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>,
-        advised by Prof. Yong-Hwa Park, and my B.S. in Mechanical Engineering from
-        <strong>Yonsei University</strong>.
-      </p>
-    </div>
-  </div>
-  <a href="#education" class="scroll-arrow" aria-label="Scroll to Education">
-    <svg width="30" height="30" viewBox="0 0 30 30"><polyline points="7,12 15,20 23,12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-  </a>
-</section>
-
-<section id="education" class="content-section">
+<section id="education" class="content-section alt">
   <div class="section-inner">
     <h2 class="section-heading reveal">Education</h2>
     <div class="edu-list reveal">
@@ -90,7 +82,7 @@ hero:
   </a>
 </section>
 
-<section id="publications" class="content-section alt">
+<section id="publications" class="content-section">
   <div class="section-inner">
     <h2 class="section-heading reveal">Publications</h2>
     <div class="card-list">
@@ -240,7 +232,7 @@ hero:
   </a>
 </section>
 
-<section id="projects" class="content-section">
+<section id="projects" class="content-section alt">
   <div class="section-inner">
     <h2 class="section-heading reveal">Past Projects</h2>
     <div class="card-list">

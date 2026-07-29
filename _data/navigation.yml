@@ -5,9 +5,6 @@
 # (prefixed with #) for the scroll-spy highlight in _layouts/clean.html to work.
 
 main:
-  - title: "About"
-    url: "#about"
-
   - title: "Education"
     url: "#education"
 

@@ -13,7 +13,8 @@
 
     {% if hero.role %}<div class="hero-role">{{ hero.role }}</div>{% endif %}
     {% if hero.affiliation %}<div class="hero-affiliation">{{ hero.affiliation }}</div>{% endif %}
-    {% if hero.bio %}<p class="hero-bio">{{ hero.bio }}</p>{% endif %}
+    {%- comment -%} A div, not a p: the bio carries block markup (paragraphs, lists). {%- endcomment -%}
+    {% if hero.bio %}<div class="hero-bio">{{ hero.bio }}</div>{% endif %}
 
     <div class="pub-links">
       {% if hero.home_link %}

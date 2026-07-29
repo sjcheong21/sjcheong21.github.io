@@ -120,6 +120,26 @@ img {
   max-width: 100%;
 }
 
+/* Inline emphasis for key terms. Accent-coloured but not underlined, so it
+   reads as emphasis rather than a link. Usable anywhere: hero bio, section
+   bodies, card text. */
+.hl {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+/* When the emphasised term is also a link, keep an underline so it still
+   reads as clickable rather than as plain emphasis. */
+a.hl {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a.hl:hover {
+  color: var(--color-accent-hover);
+}
+
 /* ===== Theme Toggle ===== */
 .theme-toggle {
   background: none;
@@ -297,9 +317,26 @@ body.dark-mode .icon-moon { display: none; }
 .hero-bio {
   font-size: 16px;
   line-height: 1.75;
-  color: var(--color-text-secondary);
+  color: var(--color-text);
   max-width: 720px;
   margin: 0 0 26px;
+}
+
+.hero-bio p {
+  margin-bottom: 14px;
+}
+
+.hero-bio p:last-child {
+  margin-bottom: 0;
+}
+
+.hero-bio ul {
+  margin: 0 0 14px;
+  padding-left: 20px;
+}
+
+.hero-bio li {
+  margin-bottom: 6px;
 }
 
 .hero-grid-single .hero-bio {
@@ -678,6 +715,13 @@ body.dark-mode .content-section.alt {
   .hero-bio {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  /* Name and buttons centre when stacked, but the bio is prose with a bullet
+     list — centring it leaves the list ragged and hard to read. The 404 hero
+     (hero-grid-single) is one short sentence, so it stays centred. */
+  .hero-grid:not(.hero-grid-single) .hero-bio {
+    text-align: left;
   }
 
   .pub-links {
