@@ -23,9 +23,9 @@ hero:
       <span class="hl">computer vision</span>, with an emphasis on:
     </p>
     <ul>
-      <li>Physics-grounded intelligent sensing and imaging systemsPhysics-grounded intelligent sensing and imaging systems</li>
+      <li>Physics-grounded intelligent sensing and imaging systems</li>
       <li> ToF/LiDAR computational imaging</li>
-      <li>TStatistical signal processing and inverse problems</li>
+      <li>Statistical signal processing and inverse problems</li>
       <li>Physics-based and learning-based modeling</li>
     </ul>
     <p>
