@@ -11,8 +11,8 @@ hero:
   name: "Sungjin Cheong"
   role: "Ph.D. Student in Computer Sciences"
   affiliation: '<a href="https://wisionlab.com/" target="_blank" rel="noopener">WISION Lab</a> &middot; University of Wisconsin–Madison'
-  bio: "I work on computational imaging and computer vision — ToF/LiDAR sensing, multi-modal 3D perception, and physics-informed models of active depth sensors."
-  cv: /files/sjcheong_cv.pdf
+  bio: "I work on computational imaging and computer vision — ToF/LiDAR imaging, multi-modal 3D perception, and physics-informed models of active depth sensors."
+  cv: /files/sjcheong_cv_2026.pdf
   scroll_to: "#about"
 ---
 
@@ -109,7 +109,7 @@ hero:
         <div class="card-body">
           <div class="card-title">Thermal-Infrared Remote-Target Detection System for Maritime Rescue Using 3-D Game-Based Data Augmentation With GAN</div>
           <div class="card-authors"><span class="me">Sungjin Cheong</span>, Wonhu Jung, Yoon Seop Lim, Yong-Hwa Park</div>
-          <div class="card-venue">IEEE Transactions on Geoscience and Remote Sensing, 2024 (IF: 8.6)</div>
+          <div class="card-venue">IEEE Transactions on Geoscience and Remote Sensing, 2024 (IF: 9.4)</div>
           <div class="card-links">
             <a href="https://doi.org/10.1109/TGRS.2024.3454983" target="_blank" rel="noopener">Link</a>
             <a href="https://sites.google.com/view/sungjin-website/publications-conferences/tistd-trgs" target="_blank" rel="noopener">Details</a>
