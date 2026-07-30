@@ -93,6 +93,9 @@ hero:
           <div class="card-title">Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain</div>
           <div class="card-authors">Avery Gump, Connor Andrew Henley, <span class="me">Sungjin Cheong</span>, Akarsh Prabhakara, Mohit Gupta</div>
           <div class="card-venue">CVPR, 2026</div>
+          <div class="card-links">
+            <a href="https://arxiv.org/abs/2605.24753" target="_blank" rel="noopener">Link</a>
+          </div>
         </div>
       </div>
 
