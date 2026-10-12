@@ -38,7 +38,7 @@ hero:
       <a class="hl" href="https://human.kaist.ac.kr/" target="_blank" rel="noopener">Prof. Yong-Hwa Park</a>,
       and my B.S. in Mechanical Engineering from <span class="hl">Yonsei University</span>.
     </p>
-  cv: /files/sjcheong_cv_20261012.pdf
+  cv: /files/sjcheong_cv_final.pdf
   scroll_to: "#education"
 ---
 
