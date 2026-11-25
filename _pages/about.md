@@ -2,7 +2,7 @@
 layout: clean
 permalink: /
 title: "Home"
-description: "Sungjin Cheong — Ph.D. student in Computer Sciences at the WISION Lab, University of Wisconsin–Madison, working on computational imaging and computer vision."
+description: "Sungjin Cheong — Ph.D. student in Computer Sciences at the WISION Lab, University of Wisconsin–Madison."
 redirect_from:
   - /about/
   - /about.html
@@ -19,18 +19,16 @@ hero:
       <a class="hl" href="https://wisionlab.com/" target="_blank" rel="noopener">WISION Lab</a> at the
       <span class="hl">University of Wisconsin–Madison</span>, advised by
       <a class="hl" href="https://pages.cs.wisc.edu/~mohitg/" target="_blank" rel="noopener">Prof. Mohit Gupta</a>.
-      My research focuses on <span class="hl">computational imaging</span> and
-      <span class="hl">computer vision</span>, with an emphasis on:
+      My research focuses on <span class="hl">statistical signal processing</span> and
+      <span class="hl">imaging</span> for LiDAR sensors in extreme conditions, and on
+      leveraging simulation data to improve sensor performance in real-world environments.
+      More recently, I have been exploring how diverse sensing modalities, including LiDAR,
+      RGB, thermal infrared (TIR), and event cameras, can be integrated into
+      <span class="hl">physical AI</span> systems.
     </p>
-    <ul>
-      <li>Physics-grounded intelligent sensing and imaging systems</li>
-      <li> ToF/LiDAR computational imaging</li>
-      <li>Statistical signal processing and inverse problems</li>
-      <li>Physics-based and learning-based modeling</li>
-    </ul>
     <p>
-      Previously, I worked at <span class="hl">LG Innotek</span> developing direct Time-of-Flight (dToF) LiDAR
-      signal and image processing algorithms.
+      Previously, I worked at <span class="hl">LG Innotek</span> as a LiDAR researcher, where I
+      contributed to the company's first direct Time-of-Flight (dToF) scanning LiDAR.
     </p>
     <p>
       I received my M.S. in Mechanical Engineering from
