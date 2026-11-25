@@ -502,12 +502,26 @@ body.dark-mode .icon-moon { display: none; }
   display: block;
 }
 
+.edu-desc {
+  display: block;
+  margin-top: 6px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-text);
+}
+
 .edu-date {
   font-size: 14px;
   color: var(--color-text-secondary);
   white-space: nowrap;
   flex-shrink: 0;
   padding-top: 2px;
+}
+
+/* Single-color dark-blue logos (KAIST) vanish on the dark background, so
+   dark mode shows them in white, as a monochrome logo variant would be. */
+body.dark-mode .logo-dark-invert {
+  filter: brightness(0) invert(1);
 }
 
 /* ===== Publication / Project cards ===== */

@@ -57,7 +57,7 @@ hero:
       </div>
 
       <div class="edu-item">
-        <img class="edu-logo" src="{{ '/images/kaist.png' | relative_url }}" alt="KAIST logo">
+        <img class="edu-logo logo-dark-invert" src="{{ '/images/kaist.png' | relative_url }}" alt="KAIST logo">
         <div class="edu-text">
           <span class="edu-school">KAIST</span>
           <span class="edu-meta">M.S. in Mechanical Engineering</span>
@@ -77,12 +77,35 @@ hero:
 
     </div>
   </div>
+  <a href="#experience" class="scroll-arrow" aria-label="Scroll to Experience">
+    <svg width="30" height="30" viewBox="0 0 30 30"><polyline points="7,12 15,20 23,12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </a>
+</section>
+
+<section id="experience" class="content-section">
+  <div class="section-inner">
+    <h2 class="section-heading reveal">Experience</h2>
+    <div class="edu-list reveal">
+
+      <div class="edu-item">
+        <img class="edu-logo" src="{{ '/images/LGInnotek_logo.png' | relative_url }}" alt="LG Innotek logo">
+        <div class="edu-text">
+          <span class="edu-school">LG Innotek Company</span>
+          <span class="edu-meta">LiDAR Researcher</span>
+          <span class="edu-meta">Seoul, South Korea</span>
+          <span class="edu-desc">Developed statistical signal processing and imaging algorithms for direct Time-of-Flight (dToF) scanning LiDAR.</span>
+        </div>
+        <span class="edu-date">Aug. 2023 – Aug. 2025</span>
+      </div>
+
+    </div>
+  </div>
   <a href="#publications" class="scroll-arrow" aria-label="Scroll to Publications">
     <svg width="30" height="30" viewBox="0 0 30 30"><polyline points="7,12 15,20 23,12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
   </a>
 </section>
 
-<section id="publications" class="content-section">
+<section id="publications" class="content-section alt">
   <div class="section-inner">
     <h2 class="section-heading reveal">Publications</h2>
     <div class="card-list">
@@ -235,7 +258,7 @@ hero:
   </a>
 </section>
 
-<section id="projects" class="content-section alt">
+<section id="projects" class="content-section">
   <div class="section-inner">
     <h2 class="section-heading reveal">Past Projects</h2>
     <div class="card-list">
